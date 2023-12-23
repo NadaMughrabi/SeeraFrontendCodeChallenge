@@ -1,0 +1,19 @@
+{
+  "name": "second-scenario---nada-mughrabi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.1"
+  },
+  "devDependencies": {
+    "@applitools/eyes-cypress": "^3.40.4",
+    "cypress-mochawesome-reporter": "^3.7.0"
+  }
+}
